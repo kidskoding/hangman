@@ -1,0 +1,13 @@
+rust
+python
+cargo
+git
+hello world
+illinois
+champaign
+urbana
+grainger
+computer science
+mirror
+lamp
+phone
